@@ -1,0 +1,14 @@
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\bin\Debug\Banker3.exe.config
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\bin\Debug\Banker3.exe
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\bin\Debug\Banker3.pdb
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.csproj.AssemblyReference.cache
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.Form1.resources
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.Properties.Resources.resources
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.csproj.GenerateResource.cache
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.csproj.CoreCompileInputs.cache
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.exe
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.pdb
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.Form2.resources
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.Form3.resources
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.Form4.resources
+C:\Users\Magd Nemeh\source\repos\Banker3\Banker3\obj\Debug\Banker3.Form5.resources
